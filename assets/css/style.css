@@ -274,3 +274,11 @@ header .banner p{
         margin: 0 auto;
     }
 }
+@media (max-width: 767px){
+    .happy-client h3{
+        font-size: 18px;
+    }
+    .happy-client h4{
+        font-size: 14px;
+    }
+}
