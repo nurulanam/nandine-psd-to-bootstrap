@@ -1,4 +1,13 @@
 /* common css start */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+}
+
 h1 span,
 h2 span,
 h3 span {
@@ -427,6 +436,7 @@ header .banner p {
     color: #fff;
     font-size: 18px;
     font-weight: 700;
+    text-transform: uppercase;
 }
 
 .feedback p {
